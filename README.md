@@ -1,6 +1,6 @@
 # SQL-10
 
-### (LEFT ve JOIN olan kümeleri seçmek size kalmış)
+### (Left ve Right olan kümeleri seçmek size kalmış)
 
 - city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz LEFT JOIN sorgusunu yazınız.
 
